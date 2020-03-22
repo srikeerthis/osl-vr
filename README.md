@@ -5,9 +5,8 @@ A VR project that displays the current working environment of OSL in 3D. This pr
 The project is incomplete and a lot of changes need to be implemented.
 
 # Screenshot 
-The current 3d model of OSL is given below:
+The current 3d model of OSL can be seen in Screenshot folder.
 
-![Image of project](/ScreenshotFolder/0002 shot.png)
 
 # Project Requirements
 Unity -v 2018.4.16f1
@@ -21,5 +20,3 @@ Unity -v 2018.4.16f1
 5. Run the project after everything is loaded. (Unity takes some time to load the project)
 
 You are ready to rock n roll to make OSL VR !
-
-
